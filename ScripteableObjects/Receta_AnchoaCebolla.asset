@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88a8837177ad3c64d9a06ffc32d8adac, type: 3}
+  m_Name: Receta_AnchoaCebolla
+  m_EditorClassIdentifier: 
+  nombreDelPlato: Anchoa con Cebolla
+  ingredientesNecesarios:
+  - Pan
+  - Cebolla
+  - Anchoa
+  nombreDelPintxoFinal: Receta_AnchoaCebolla
+  prefabResultado: {fileID: 8208953902129600156, guid: 1f011b7fdbb275544947cde886ded82d, type: 3}
+  iconoDelPlato: {fileID: 5946461817480961877, guid: 9b20198220235d74b99f4f3b56cb92b1, type: 3}
